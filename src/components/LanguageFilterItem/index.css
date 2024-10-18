@@ -1,0 +1,22 @@
+.language-btn {
+  border: none;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #0f172a;
+  font-weight: 700;
+  padding: 17px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  flex-shrink: 0;
+  outline: none;
+  cursor: pointer;
+}
+
+.active-language-btn {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 12px;
+}
